@@ -1,4 +1,8 @@
-# NYC Ride-Hailing Operations and Market Share Analysis
+<div align="center">
+  <img width="1000px" src="assets/Logos.png" />
+</div>
+
+<h1 align="center">NYC Ride-Hailing Operations and Market Share Analysis</h1>
 
 ## Background and Overview
 As our team plans the upcoming operational and marketing strategies for the New York City market, we need a clear understanding of current passenger demand and competitor positioning. The objective of this analysis is to evaluate 21 million recent trip records across the NYC High Volume For-Hire Vehicle sector. By analyzing over $534 million in gross fare revenue, this report identifies how volume translates to actual revenue, where operational friction exists in the dispatch process, and what temporal trends dictate passenger behavior.
