@@ -12,6 +12,23 @@ Uber currently maintains a dominant market position with 15.1 million trips comp
 
 ![KPI Banner](assets/KPI%20Banner.jpg)
 
+## Interactive Dashboard Previews
+Below are static views of the three main report pages. The interactive `.pbix` file containing full cross-filtering functionality can be downloaded from the repository files.
+
+**1. Demand Engine**
+*Provides a high-level geographical and temporal overview, designed to allow stakeholders to dynamically filter market share and daily trip volumes down to specific NYC boroughs.*
+![Demand Engine Dashboard](assets/Page%201.png)
+
+**2. Operational Efficiency**
+*Tracks systemic dispatch bottlenecks, visualizing the root causes of passenger wait times and allowing users to cross-filter operational friction points by company and neighborhood demand.*
+![Operational Efficiency Dashboard](assets/Page%202.png)
+
+**3. Unit Economics**
+*Focuses on financial performance, mapping average revenue per mile across the 24-hour profit curve and isolating driver compensation gaps to evaluate platform efficiency.*
+![Unit Economics Dashboard](assets/Page%203.png)
+
+---
+
 ## Insights Deep Dive
 
 ### Volume vs. Ticket Size in the Outer Boroughs
