@@ -6,7 +6,7 @@
 
 ## Background and Overview
 As our team plans the upcoming operational and marketing strategies for the New York City market, we need a clear understanding of current passenger demand and competitor positioning. The objective of this analysis is to evaluate 21 million recent trip records across the NYC High Volume For-Hire Vehicle sector. By analyzing over $534 million in gross fare revenue, this report identifies how volume translates to actual revenue, where operational friction exists in the dispatch process, and what temporal trends dictate passenger behavior.
-*(For a detailed breakdown of the data cleaning processes and the DuckDB aggregation pipeline, please refer to the [Technical Documentation Link](Technical_Architecture_and_Pipeline.ipynb)).*
+*(For a detailed technical write-up breaking down the data cleaning processes and the DuckDB aggregation pipeline, please refer to the file "Technical_Architecture_and_Pipeline.ipynb").*
 
 ## Data Structure Overview
 The foundation of this analysis relies on a dimensional model built from raw TLC trip records. The central fact table tracks individual trips and is filtered to remove physical anomalies like impossible city speeds or negative fares. This fact table is connected to lookup dimensions including NYC Taxi Zones, time intervals, and company identifiers to allow for accurate cross-filtering.
